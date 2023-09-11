@@ -26,6 +26,5 @@ Esse projeto está sob a licença MIT.
 </p>
 
 
-<p align="center"
 Feito com ♥ por Guilherme de Carvalho :wave: 
->
+
