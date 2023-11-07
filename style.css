@@ -85,11 +85,13 @@ body * {
 }
 
 #switch button:hover {
+  transition: 0.1s;
   outline: 8px solid var(--highlight-color);
 }
 
 .light #switch button {
   animation: slide-in 0.2s forwards;
+  transition: 0.2s;
 }
 
 #switch span {
@@ -135,6 +137,7 @@ ul li a {
 ul li a:hover {
   background: var(--surface-color-hover);
   border: 1.5px solid var(--text-color);
+  transition: 0.5s;
 }
 
 #social-links {
@@ -157,6 +160,7 @@ ul li a:hover {
 
 #social-links a:hover {
   background: var(--highlight-color);
+  transition: 0.5s;
 }
 
 footer {
